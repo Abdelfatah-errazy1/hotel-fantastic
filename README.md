@@ -31,5 +31,3 @@ projet pour gerer les hotels
 
 ![image](https://github.com/Abdelfatah-errazy1/hotel-fantastic/assets/110500328/b0c8dbfb-d2e3-4044-acc1-2232581e8370)
 
-
-![image](https://github.com/Abdelfatah-errazy1/hotel-fantastic/assets/110500328/abf9e649-0dc0-4600-ba0e-55831ffad0e7)
